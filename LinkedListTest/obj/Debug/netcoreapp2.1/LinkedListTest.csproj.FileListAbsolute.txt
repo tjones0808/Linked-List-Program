@@ -1,0 +1,11 @@
+C:\Users\tyler\source\repos\LinkedListTest\LinkedListTest\bin\Debug\netcoreapp2.1\LinkedListTest.deps.json
+C:\Users\tyler\source\repos\LinkedListTest\LinkedListTest\bin\Debug\netcoreapp2.1\LinkedListTest.runtimeconfig.json
+C:\Users\tyler\source\repos\LinkedListTest\LinkedListTest\bin\Debug\netcoreapp2.1\LinkedListTest.runtimeconfig.dev.json
+C:\Users\tyler\source\repos\LinkedListTest\LinkedListTest\bin\Debug\netcoreapp2.1\LinkedListTest.dll
+C:\Users\tyler\source\repos\LinkedListTest\LinkedListTest\bin\Debug\netcoreapp2.1\LinkedListTest.pdb
+C:\Users\tyler\source\repos\LinkedListTest\LinkedListTest\obj\Debug\netcoreapp2.1\LinkedListTest.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\LinkedListTest\LinkedListTest\obj\Debug\netcoreapp2.1\LinkedListTest.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\LinkedListTest\LinkedListTest\obj\Debug\netcoreapp2.1\LinkedListTest.AssemblyInfoInputs.cache
+C:\Users\tyler\source\repos\LinkedListTest\LinkedListTest\obj\Debug\netcoreapp2.1\LinkedListTest.AssemblyInfo.cs
+C:\Users\tyler\source\repos\LinkedListTest\LinkedListTest\obj\Debug\netcoreapp2.1\LinkedListTest.dll
+C:\Users\tyler\source\repos\LinkedListTest\LinkedListTest\obj\Debug\netcoreapp2.1\LinkedListTest.pdb

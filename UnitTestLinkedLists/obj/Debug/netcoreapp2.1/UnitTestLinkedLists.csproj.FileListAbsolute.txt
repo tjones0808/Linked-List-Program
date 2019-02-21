@@ -1,0 +1,17 @@
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\bin\Debug\netcoreapp2.1\UnitTestLinkedLists.deps.json
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\bin\Debug\netcoreapp2.1\UnitTestLinkedLists.runtimeconfig.json
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\bin\Debug\netcoreapp2.1\UnitTestLinkedLists.runtimeconfig.dev.json
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\bin\Debug\netcoreapp2.1\UnitTestLinkedLists.dll
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\bin\Debug\netcoreapp2.1\UnitTestLinkedLists.pdb
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\bin\Debug\netcoreapp2.1\LinkedListTest.dll
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\bin\Debug\netcoreapp2.1\LinkedListTest.pdb
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\obj\Debug\netcoreapp2.1\UnitTestLinkedLists.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\obj\Debug\netcoreapp2.1\UnitTestLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\obj\Debug\netcoreapp2.1\UnitTestLinkedLists.AssemblyInfoInputs.cache
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\obj\Debug\netcoreapp2.1\UnitTestLinkedLists.AssemblyInfo.cs
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\obj\Debug\netcoreapp2.1\UnitTestLinkedLists.csproj.CopyComplete
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\obj\Debug\netcoreapp2.1\UnitTestLinkedLists.dll
+C:\Users\tyler\source\repos\LinkedListTest\UnitTestLinkedLists\obj\Debug\netcoreapp2.1\UnitTestLinkedLists.pdb
